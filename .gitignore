@@ -45,6 +45,10 @@ intermediate
 publish
 .idea
 
+# Ignore SlideShowPro cache directories
+cache/
+xml_cache/
+
 # build script local files
 build/buildinfo.properties
 build/config/buildinfo.properties
