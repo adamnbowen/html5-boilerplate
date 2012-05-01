@@ -49,6 +49,9 @@ publish
 cache/
 xml_cache/
 
+# Ignore google-site-verification files
+google*.html
+
 # build script local files
 build/buildinfo.properties
 build/config/buildinfo.properties
